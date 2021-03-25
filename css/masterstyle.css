@@ -6,19 +6,19 @@
 }
 
 html,body{
-    background-color: blue;
+    background-color: #4B42AA;
 }
 
 .main-container{
-    border: 5px solid rgb(255, 22, 119);
+    border: 5px solid rgb(114, 118, 187);
     border-radius: 10px;
     margin: 2rem;
-    background-color: #ff23ff;
+    background-color: #8585B7;
 
 }
 
 nav,section,footer,article,aside{
-    border: 2px solid rgb(255, 120, 120);
+    border: 2px solid rgb(114, 118, 187);
     margin: 1rem;
     border-radius: 10px;
     padding: 1rem;
@@ -28,9 +28,9 @@ aside,article{
     width: 40%;
     display: inline-block;
     height: 300px;
-    background-color: rgb(107, 107, 107);
+    background-color: rgb(210, 149, 87);
 }
 
 nav,section,footer{
-    background-color: rgb(107, 107, 10);
+    background-color: rgb(123, 61, 40);
 }
